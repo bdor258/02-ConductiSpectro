@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - pip
+  - ipympl
   - pip:
     - nbgitpuller
     - sphinx-gallery
